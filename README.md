@@ -1,2 +1,2 @@
-# roughtNotes
-RoughNotes
+# roughNotes
+React Samples
